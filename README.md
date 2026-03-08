@@ -7,8 +7,8 @@ I use GitHub as a platform to empower developers and to experiment with the late
 
 In my spare time:
 
-- 💻 I work AI/ML projects.
+- 💻 I work on AI/ML projects.
 - 🌱 Go for hikes, exploring nature.
-- 📷 Go for Campings. 
+- ⛺ Go for Campings. 
 - 📷 Shoot photos for family and friends
 
