@@ -1,7 +1,7 @@
 
 Hi there 👋
 
-I'm a software engineer with 15+ years of experience. 🧑‍💻
+I'm a software engineer with 15+ years of experience. Have worked for both startups and giants like Oracle and Tesla. 🧑‍💻
 
 I use GitHub as a platform to empower developers and to experiment with the latest tech. 🚀
 
