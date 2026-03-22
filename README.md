@@ -2,9 +2,9 @@
 Hi there 👋
 
 I'm experienced software lead with 15+ years of experience. Have worked for both startups and giants like Oracle and Tesla 🧑‍💻.
-I use GitHub as a platform to empower developers and to experiment with the latest tech. 🚀
+I use GitHub as a platform to empower developers and to experiment with the latest tech. Here is the [chatbot](https://huggingface.co/spaces/Adityakrverma/career_conversation) about my professional skills 🚀
 
 In my spare time:
 - 💻 I work on AI/ML projects.
 - ⛺ Go for Campings, Hikes 
-- 📷 Shoot [photos](https://flickr.com/photos/80153570@N06/) 
+- 📷 Shoot [photos](https://flickr.com/photos/80153570@N06/)
