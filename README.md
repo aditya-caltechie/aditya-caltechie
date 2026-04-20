@@ -19,9 +19,6 @@
 
 ### 🛠️ Technologies & Tools
 
-#### 💻 Programming Languages & Frameworks
-Python • Golang • C/C++ • JavaScript • TypeScript • React
-
 #### 🤖 AI / Machine Learning
 **LLM Frameworks**: LangChain, LangGraph, AutoGen, CrewAI, LangSmith  
 **Deep Learning**: PyTorch, Transformers, TensorRT  
