@@ -1,10 +1,41 @@
+<div align="center">
+  <h1>Hi there 👋</h1>
+  <h3>I'm Aditya - Software Engineering Leader & AI/ML Practitioner</h3>
+  
+  <p>
+    15+ years of experience building scalable systems and leading engineering teams at 
+    <strong>Tesla</strong> and <strong>Oracle</strong>.
+  </p>
 
-Hi there 👋
+  <p>
+    Passionate about AI Engineering, Large Language Models, and modern cloud-native platforms.
+  </p>
 
-I'm experienced software lead with 15+ years of experience. Have worked for both startups and giants like Oracle and Tesla 🧑‍💻.
-I use GitHub as a platform to empower developers and to experiment with the latest tech. Here is the [chatbot](https://huggingface.co/spaces/Adityakrverma/career_conversation) about my professional skills 🚀
+  <a href="https://www.linkedin.com/in/aditverm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+  </a>
+</div>
 
-In my spare time:
-- 💻 I work on AI/ML projects.
-- ⛺ Go for Campings, Hikes 
-- 📷 Shoot [photos](https://flickr.com/photos/80153570@N06/)
+---
+
+### 🛠️ Technologies & Tools
+
+#### 🤖 AI / Machine Learning
+**LLM Frameworks**: LangChain, LangGraph, AutoGen, CrewAI, LangSmith  
+**Deep Learning**: PyTorch, Transformers, TensorRT  
+**ML Ecosystem**: Scikit-Learn, Weights & Biases, OpenAI SDK
+
+#### ☁️ Cloud & DevOps
+**Platforms**: AWS, GCP, Azure  
+**Infrastructure**: Kubernetes, Docker, Terraform, GitHub Actions, AWS CDK
+
+---
+
+### 🌱 Beyond Work
+
+- 💻 Actively working on AI/ML side projects  
+- ⛰️  Hiking, camping & outdoor adventures  
+- 📸  Photography [](https://flickr.com/photos/80153570@N06/)
+
+
+
