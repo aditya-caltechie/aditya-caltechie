@@ -32,7 +32,7 @@
 
 ### 🌱 Beyond Work
 - ⛰️ Hiking, camping & outdoor adventures
-- 📸 Photography [](https://flickr.com/photos/80153570@N06/)
+- 📸 [Photography](https://flickr.com/photos/80153570@N06/)
 
 
 
