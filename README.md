@@ -24,7 +24,7 @@
 - **Deep Learning**: PyTorch, Transformers, TensorRT  
 - **ML Ecosystem**: Scikit-Learn, Weights & Biases, OpenAI SDK
 
-#### ☁️ Cloud & DevOps
+#### ☁️ Cloud & MLOps
 - **Platforms**: AWS, GCP, Azure  
 - **Infrastructure**: Kubernetes, Docker, Terraform, GitHub Actions, AWS CDK
 
