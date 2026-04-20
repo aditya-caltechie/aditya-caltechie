@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋</h1>
-  <h3>I'm Aditya - Software Engineering Leader & AI/ML Practitioner</h3>
+  <h3>Hi there 👋. I'm Aditya - Software Engineering Leader & AI/ML Practitioner</h3>
   
   <p>
     15+ years of experience building scalable systems and leading engineering teams at 
@@ -31,9 +30,7 @@
 
 ---
 
-### 🌱 Beyond Work
-
-- 💻 Actively working on AI/ML side projects  
+### 🌱 Beyond Work 
 - ⛰️  Hiking, camping & outdoor adventures  
 - 📸  Photography [](https://flickr.com/photos/80153570@N06/)
 
