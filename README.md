@@ -6,9 +6,6 @@
     <strong>Tesla</strong> and <strong>Oracle</strong>. Passionate about AI Engineering.
   </p>
 
-  <a href="https://www.linkedin.com/in/aditverm/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
-  </a>
 </div>
 
 ---
