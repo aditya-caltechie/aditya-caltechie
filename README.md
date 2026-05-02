@@ -13,9 +13,9 @@
 ### 🛠️ Technologies & Tools
 
 #### 🤖 AI / Machine Learning
-- **LLM Frameworks**: LangChain, LangGraph, OpenAI Agents SDK, AutoGen, CrewAI, LangSmith, LangFuse  
+- **LLM Frameworks**: LangChain, LangGraph, OpenAI Agents SDK, AutoGen, CrewAI,  
 - **Deep Learning**: PyTorch, Transformers, TensorRT  
-- **ML Ecosystem**: Scikit-Learn, Weights & Biases, MCP
+- **ML/AI Ecosystem**: MCP, GuardRails, Evals, LangSmith, LangFuse, Weights & Biases, Scikit-Learn
 
 #### ☁️ Cloud & MLOps
 - **Platforms**: AWS, GCP, Azure  
