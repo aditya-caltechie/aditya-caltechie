@@ -3,7 +3,7 @@
  
   <p>
     15+ years of experience building scalable systems & leading engineering teams at 
-    <strong>Tesla</strong>, <strong>Oracle</strong> and <strong>Rainberry</strong>. Passionate about AI Engineering.
+    Tesla, Oracle and Rainberry. Passionate about AI Engineering.
   </p>
 
 </div>
